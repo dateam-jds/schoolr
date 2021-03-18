@@ -1,0 +1,16 @@
+Package: schoolr
+Title: School Risk Analysis
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Muhammad Aswan",
+           family = "Syahputra",
+           role = c("aut", "cre"),
+           email = "muhammadaswansyahputra@gmail.com")
+Description: Compendium for Nearest Neighbour Analysis and Cluster Analysis for school status during pandemic.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.1
+Depends: 
+    R (>= 2.10)
